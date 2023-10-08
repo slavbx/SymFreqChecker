@@ -4,8 +4,8 @@ REST API, предоставляющее информацию о частоте 
   
 ### Инструкция по запуску проекта
 Версия Java: 1.8  
-Версия Spring Boot: 2.7.16
-Для запуска выполнить команду Run класса SymFreqCheckerApplication  
+Версия Spring Boot: 2.7.16  
+Для запуска проекта выполнить команду Run класса SymFreqCheckerApplication  
 
 ### Endpoints  
 ```
