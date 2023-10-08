@@ -1,7 +1,7 @@
 # SymFreqChecker
 REST API, предоставляющее информацию о частоте встречи символов в заданной строке  
 
-Endpoints  
+#Endpoints  
 ```
 POST api/check-symbols  
 ```
